@@ -25,7 +25,7 @@ Reading name     | Reading page
 **Read4**        | [Read4](Read4.md)
 **Read5**        | [Read5](Read5.md)
 **Read6**        | [Read6](Read6.md)
-**Read7**        | 
+**Read7**        | [Read7](Read7.md)
 **Read8**        | 
 **Read9**        | 
 **Read10**       | 
